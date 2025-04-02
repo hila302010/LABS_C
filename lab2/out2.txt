@@ -1,0 +1,17 @@
+LineParser.c
+LineParser.h
+hila
+in.txt
+looper
+looper.c
+looper.o
+looper_modified.c
+makefile
+myPipe.c
+myshell.c
+out.txt
+out2.txt
+parser.o
+pipe
+shell
+shell.o
